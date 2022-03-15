@@ -1,0 +1,25 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/xomenca/miniconda3/envs/yolov5
+
+  added / updated specs:
+    - pycocotools
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    pycocotools-2.0.4          |   py38h6c62de6_0         115 KB  conda-forge
+    ------------------------------------------------------------
+                                           Total:         115 KB
+
+The following NEW packages will be INSTALLED:
+
+  pycocotools        conda-forge/linux-64::pycocotools-2.0.4-py38h6c62de6_0
+
+
+Proceed ([y]/n)? 
